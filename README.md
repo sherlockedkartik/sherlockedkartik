@@ -1,5 +1,5 @@
 # 💫 About Me:
- iOS Developer in Progress  <br><br>🌱 Currently learning **Swift, SwiftUI, iOS Development, Firebase, APIs & DSA**<br><br>📱 Building real-world iOS projects while learning in public<br><br>🚀 Currently doing **#100DaysOfCode focused on iOS Development**<br><br>🤝 Open to collaborating on **iOS projects, beginner-friendly apps, and open source**<br><br>💬 Ask me about **Swift basics, SwiftUI, JavaScript, React, or DSA**<br><br>⚡ Fun fact: Relearning development from scratch in a new ecosystem has been both uncomfortable and exciting.<br>
+ iOS Developer in Progress  <br><br>🌱 Currently learning **Swift, SwiftUI, iOS Development, Firebase, APIs & DSA**<br><br>📱 Building real-world iOS projects while learning in public<br><br>🚀 Currently doing **#100DaysOfCode focused on iOS Development**<br><br>🤝 Open to collaborating on **iOS projects, beginner-friendly apps, and open source**<br><br>💬 Ask me about **Swift basics, SwiftUI or DSA**<br><br>⚡ Fun fact: Relearning development from scratch in a new ecosystem has been both uncomfortable and exciting.<br>
 
 
 ## 🌐 Socials:
