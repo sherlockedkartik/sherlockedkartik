@@ -1,66 +1,39 @@
+# 💫 About Me:
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Kartik%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-<h1>Hi 👋, I'm Kartik Sharma</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=iOS+Developer+in+Progress+%F0%9F%93%B1;Building+with+Swift+%26+SwiftUI+%EF%A3%BF;100DaysOfCode+Challenge+%F0%9F%9A%80;Learning+in+Public+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=iOS+Developer+in+Progress+%EF%A3%BF;Building+with+Swift+%26+SwiftUI;Learning+DSA+in+Swift;100DaysOfCode+Challenge+%F0%9F%9A%80;Learning+in+Public+Every+Day" />
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+📱 iOS Developer in Progress 
 
-📱 Aspiring iOS Developer
+🌱 Currently learning **Swift, SwiftUI, iOS Development, Firebase, APIs & DSA**
 
-🌱 Currently learning:
+📱 Building real-world iOS projects while learning in public
 
-* Swift
-* SwiftUI
-* Firebase
-* REST APIs
-* Data Structures & Algorithms
+🚀 Currently doing **#100DaysOfCode focused on iOS Development**
 
-🚀 Building real-world iOS apps while learning in public
+🤝 Open to collaborating on **iOS projects, beginner-friendly apps, and open source**
 
-💯 Currently doing **#100DaysOfCode**
+💬 Ask me about **Swift basics, SwiftUI or DSA**
 
-🤝 Open to collaborating on:
-
-* iOS Apps
-* SwiftUI Projects
-* Open Source
-
-⚡ Fun Fact:
-
-> Relearning development from scratch in a completely new ecosystem has been one of the most challenging and rewarding experiences.
+⚡ Fun fact: Relearning development from scratch in a new ecosystem has been both uncomfortable and exciting.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials:
 
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_X">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="YOUR_MEDIUM">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/sharmaxkartik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white\&style=for-the-badge)](https://medium.com/@kartikxsharma13)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white\&style=for-the-badge)](https://x.com/wickedkartik)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:kartikxsharma13@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack:
 
 <div align="center">
 
@@ -70,62 +43,40 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=sherlockedkartik\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sherlockedkartik&show_icons=true&theme=tokyonight"/>
+![](https://streak-stats.demolab.com/?user=sherlockedkartik\&theme=tokyonight\&hide_border=false)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockedkartik&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sherlockedkartik&theme=tokyonight"/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockedkartik\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sherlockedkartik&theme=tokyonight&row=1&column=6"/>
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=sherlockedkartik\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sherlockedkartik&theme=tokyo-night"/>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://github-readme-activity-graph.vercel.app/graph?username=sherlockedkartik\&theme=tokyo-night)
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sherlockedkartik&style=for-the-badge&color=0A84FF"/>
-</p>
+[![](https://komarev.com/ghpvc/?username=sherlockedkartik\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)](https://github.com/sherlockedkartik)
 
 ---
 
 <div align="center">
 
-### 💙 Building iOS Apps One Commit At A Time
+### 📱 Building iOS Apps One Commit At A Time
+
+### 🚀 #100DaysOfCode
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<!-- Proudly created and customized by Kartik Sharma -->
