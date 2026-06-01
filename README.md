@@ -1,18 +1,131 @@
-# 💫 About Me:
- iOS Developer in Progress  <br><br>🌱 Currently learning **Swift, SwiftUI, iOS Development, Firebase, APIs & DSA**<br><br>📱 Building real-world iOS projects while learning in public<br><br>🚀 Currently doing **#100DaysOfCode focused on iOS Development**<br><br>🤝 Open to collaborating on **iOS projects, beginner-friendly apps, and open source**<br><br>💬 Ask me about **Swift basics, SwiftUI or DSA**<br><br>⚡ Fun fact: Relearning development from scratch in a new ecosystem has been both uncomfortable and exciting.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Kartik%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharmaxkartik/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kartikxsharma13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/wickedkartik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikxsharma13@gmail.com) 
+<h1>Hi 👋, I'm Kartik Sharma</h1>
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sherlockedkartik&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sherlockedkartik&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sherlockedkartik&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=iOS+Developer+in+Progress+%F0%9F%93%B1;Building+with+Swift+%26+SwiftUI+%EF%A3%BF;100DaysOfCode+Challenge+%F0%9F%9A%80;Learning+in+Public+Every+Day"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sherlockedkartik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+📱 Aspiring iOS Developer
+
+🌱 Currently learning:
+
+* Swift
+* SwiftUI
+* Firebase
+* REST APIs
+* Data Structures & Algorithms
+
+🚀 Building real-world iOS apps while learning in public
+
+💯 Currently doing **#100DaysOfCode**
+
+🤝 Open to collaborating on:
+
+* iOS Apps
+* SwiftUI Projects
+* Open Source
+
+⚡ Fun Fact:
+
+> Relearning development from scratch in a completely new ecosystem has been one of the most challenging and rewarding experiences.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_X">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="YOUR_MEDIUM">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,firebase,git,github,figma,vscode" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sherlockedkartik&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockedkartik&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sherlockedkartik&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sherlockedkartik&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sherlockedkartik&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/sherlockedkartik/sherlockedkartik/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sherlockedkartik&style=for-the-badge&color=0A84FF"/>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Building iOS Apps One Commit At A Time
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
